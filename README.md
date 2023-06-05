@@ -1,4 +1,7 @@
-# MPT-LML ~ Masked Pre-training and the Marginal Likelihood
+# Masked Pre-training and the Marginal Likelihood
+
+In this repository, you can find all the files for running the experiments and obtain the empirical results described in our [preprint](https://arxiv.org/abs/2306.00520). Extra details on the usage will be provided here soon.
+
 
 ## 🥝 Citation 
 
